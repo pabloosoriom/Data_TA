@@ -1,6 +1,6 @@
 from utils import *
 import matplotlib.pyplot as plt
-import mglearn
+#import mglearn
 from imageio import imread
 from sklearn.neighbors import KNeighborsClassifier, KNeighborsRegressor
 from sklearn.metrics.pairwise import euclidean_distances
